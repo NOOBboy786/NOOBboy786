@@ -9,7 +9,7 @@
 - 📐 First-year B.Arch at JU, Kolkata — currently buried in site analysis portfolios and colour theory sheets
 - ⚙️ I run capable software on incapable hardware. Local AI, custom ROMs, overclocked iGPUs — if it can be tweaked, it will be.
 - 🎮 Minecraft modpacks, retro emulation, and BGMI when the portfolio isn't due tomorrow
-- 🎵 Big Weeknd fan — Starboy era specifically
+- 🎵 Big Michael Jackson fan since forever
 
 ---
 
