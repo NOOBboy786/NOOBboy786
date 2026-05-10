@@ -17,7 +17,6 @@
 
 | project | description |
 |---|---|
-| 🏗️ **Narayan Abasan** | Sheet-by-sheet site study of Spandan Apartment, Santoshpur · Jadavpur University portfolio |
 | 🏛️ **JU Campus Simulator** | Walkable 3D web simulator of Jadavpur University · A-Frame + Blender · Netlify |
 | 📼 **FSR Sharpening Extension** | Chrome/Firefox extension applying AMD FidelityFX sharpening to YouTube via WebGL RCAS shader |
 | 🤖 **Local AI on Budget Hardware** | OpenCode + Ollama + qwen2.5-coder:7b on a Ryzen 3 5300U · CPU-only, no GPU needed |
