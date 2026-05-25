@@ -1,4 +1,4 @@
-# Sagnik Ray 👾
+# D3ATH 👾
 
 > Architecture student @ Jadavpur University · tinkerer · builder of things that probably shouldn't work
 
